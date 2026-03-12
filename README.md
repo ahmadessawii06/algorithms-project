@@ -1,3 +1,3 @@
 # Algorithms-Project
 
-https://ahmadessawii06.github.io/algorithms-project/
+https://ahmadessawii06.github.io/Algorithms-Manar-Lectures/
